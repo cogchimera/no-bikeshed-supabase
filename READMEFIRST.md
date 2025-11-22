@@ -1,13 +1,13 @@
-# 🚀 Welcome to Your P-Stack Template!
+# 🚀 Welcome to Your No-Bikeshed Template!
 
-This template gives you a production-ready foundation for building modern web apps with AI assistance.
+This template gives you a production-ready foundation for building enterprise web applications with AI assistance.
 
 ## 🤖 AI-Guided Setup (Recommended)
 
-**Copy this prompt into Claude (or your AI assistant):**
+**Copy this prompt into your AI assistant:**
 
 ```
-I just cloned the p-stack-template repository. Guide me through complete setup:
+I just cloned this repository. Guide me through complete setup:
 
 1. Check if I have all prerequisites installed
 2. Help me create required accounts (Supabase, Vercel, Sentry, Resend)
@@ -80,7 +80,7 @@ pnpm dev
 
 **Monorepo Structure:**
 ```
-p-stack-template/
+/
 ├── frontend/          # React app
 ├── supabase/          # Backend (Edge Functions + migrations)
 ├── shared/            # Shared types/schemas (Zod)
